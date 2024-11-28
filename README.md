@@ -3,7 +3,7 @@
 ### 1. Leider ist NodeJS erforderlich, bitte installieren.
 https://nodejs.org/en/download/package-manager
 
-### 2. diese projekt clonen mit git.
+### 2. Download Projekt
  * [Code] Button > Download as ZIP
 
 ### 3. Install modules
